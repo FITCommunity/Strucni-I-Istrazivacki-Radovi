@@ -5,3 +5,4 @@
 # Engleski jezik
 
 * [Modafinil and Its Effects on Student Life](PSR-IB170073.pdf) - [Emin Hajdarević](https://github.com/eminleet)
+* [Lossless Data Compression](PSR-IB170097.pdf) - [Enis Mulić](https://github.com/EnisMulic)
