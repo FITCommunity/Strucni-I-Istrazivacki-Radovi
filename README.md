@@ -1,9 +1,15 @@
-# Prezentiranje Stručnog Rada
+# Stručni i Istraživački Radovi
 
 [<img src="https://discordapp.com/api/guilds/440055845552914433/widget.png" align="center">](https://discord.gg/MFzeztS)
 
 
 <img src=".assets/fit-logo.png" align="right">
 
-* [2019×2020](./Seminarski/2019×2020/README.md)
+* [PSR](./PSR)
+
+    * [2019×2020](./PSR/2019×2020/README.md)
+
+* [IS](./IS)
+
+    * [2020×2021](./IS/2020×2021/README.md)
 

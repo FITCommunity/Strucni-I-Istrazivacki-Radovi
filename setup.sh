@@ -2,16 +2,14 @@
 #!/bin/bash
 
 
-if [ -e Seminarski/$1/ ]; then
-  echo "Folder Seminarski/$1/ već postoji!"
+if [ -e /$1/$2/ ]; then
+  echo "Folder /$1/$2/ već postoji!"
 else
-  mkdir Seminarski/$1/
-  echo >> Seminarski/$1/README.md
+  mkdir $1/$2/
+  echo >> $1/$2/README.md
 
-  echo "# Bosanski, hrvatski i srpski jezik" >> Seminarski/$1/README.md
-  echo " " >> Seminarski/$1/README.md
-  echo "# Engleski jezik" >> Seminarski/$1/README.md
-  echo " " >> Seminarski/$1/README.md
-
-  echo "* [$1](./Seminarski/$1/README.md)" >> README.md
+  echo "# Bosanski, hrvatski i srpski jezik" >> $1/$2/README.md
+  echo " " >> $1/$2/README.md
+  echo "# Engleski jezik" >> $1/$2/README.md
+  echo " " >> $1/$2/README.md
 fi
